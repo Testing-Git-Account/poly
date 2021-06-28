@@ -1,0 +1,1867 @@
+
+Starting Poly Audit Process at - 2021-06-25 05:55:13.920687
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55985547
+Downloading Config, OBIIE, Model N files.
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55985554
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55991730
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56004451
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56005896
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56005904
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56005908
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56005911
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56011582
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56012627
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56012841
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56012842
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56026382
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56027381
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56027412
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56027419
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56032123
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56042379
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56045920
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56051489
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56051720
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56052070
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56052354
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56052366
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56052974
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56052975
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56053161
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56065340
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56065345
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56065350
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56067934
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56085652
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56091333
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56091406
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56091407
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56091408
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56092366
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56092422
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for CALL ONE INC [1594].
+Processing File ID - 55962880
+Processing File ID - 55986410
+Processing File ID - 56007194
+Processing File ID - 56027824
+Processing File ID - 56044345
+Processing File ID - 56067063
+Processing File ID - 56074649
+Processing File ID - 56089792
+Processing File ID - 56109376
+Processing File ID - 56119488
+Processing File ID - 56146593
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for GRAYBAR ELECTRIC COMPANY [2482].
+Processing File ID - 55963216
+Processing File ID - 55986536
+Processing File ID - 56006847
+Processing File ID - 56011714
+Processing File ID - 56012844
+Processing File ID - 56065348
+Processing File ID - 56075029
+Processing File ID - 56089876
+Processing File ID - 56109834
+Processing File ID - 56119188
+Processing File ID - 56122218
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for JENNE DISTRIBUTING [2826].
+Processing File ID - 55959734
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55960577
+Processing File ID - 55986594
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55987584
+Processing File ID - 55989284
+Processing File ID - 56003537
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56004478
+Processing File ID - 56025088
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56025932
+Processing File ID - 56032170
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56036683
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56042004
+Processing File ID - 56053270
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56062229
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56066322
+Processing File ID - 56072066
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56075962
+Processing File ID - 56084554
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56085447
+Processing File ID - 56108848
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56110380
+Processing File ID - 56117133
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56117867
+Processing File ID - 56143906
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56144625
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SKC COMMUNICATIONS PRODUCTS LLC [3882].
+Processing File ID - 55963108
+Processing File ID - 55986789
+Processing File ID - 56006616
+Processing File ID - 56027916
+Processing File ID - 56044374
+Processing File ID - 56065508
+Processing File ID - 56075108
+Processing File ID - 56089540
+Processing File ID - 56109290
+Processing File ID - 56120059
+Processing File ID - 56146960
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SPACE HELLAS S.A. [4840].
+Processing File ID - 55962436
+Processing File ID - 55985773
+Processing File ID - 56005219
+Processing File ID - 56044302
+Processing File ID - 56066644
+Processing File ID - 56076225
+Processing File ID - 56087433
+Processing File ID - 56109187
+Processing File ID - 56131719
+Processing File ID - 56149897
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for EXERTIS GO CONNECT [4847].
+Processing File ID - 55960853
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55960861
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55961475
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55962135
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55963221
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55984886
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55984971
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55985487
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55985547
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55985554
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55991730
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56004451
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56005896
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56005904
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56005908
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56005911
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56011582
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56012627
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56012841
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56012842
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56026382
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56027381
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56027412
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56027419
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56032123
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56042379
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56045920
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56051489
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56051720
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56052070
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56052354
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56052366
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56052974
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56052975
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56053161
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56065340
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56065345
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56065350
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56067934
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56085652
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56091333
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56091406
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56091407
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56091408
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56092366
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56092422
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56092787
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56101423
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56109103
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56109104
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56119222
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56121241
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56121356
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56121499
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56122203
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56144960
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56146004
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56146550
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56146556
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56149716
+Multi Partner column - REPORTER_ID does not exists in the file.
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for BILTAM AS [4856].
+Processing File ID - 55962004
+Processing File ID - 55987930
+Processing File ID - 56007278
+Processing File ID - 56027573
+Processing File ID - 56046096
+Processing File ID - 56061540
+Processing File ID - 56076114
+Processing File ID - 56085998
+Processing File ID - 56107919
+Processing File ID - 56118739
+Processing File ID - 56143957
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for QUANTUM-R TRADE LIMITED [4857].
+Processing File ID - 55965204
+Processing File ID - 55988635
+Processing File ID - 56010335
+Processing File ID - 56030278
+Processing File ID - 56046464
+Processing File ID - 56067171
+Processing File ID - 56077066
+Processing File ID - 56089608
+Processing File ID - 56110972
+Processing File ID - 56132056
+Processing File ID - 56148996
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for NEXTEL SYSTEMS LTD [4971].
+Processing File ID - 55966477
+Processing File ID - 55988066
+Processing File ID - 56008497
+Processing File ID - 56027448
+Processing File ID - 56046214
+Processing File ID - 56067007
+Processing File ID - 56076391
+Processing File ID - 56089298
+Processing File ID - 56111241
+Processing File ID - 56134445
+Processing File ID - 56148610
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for GLOBAL COMMUNICATION [4975].
+Processing File ID - 55961409
+Processing File ID - 55983349
+Processing File ID - 56003712
+Processing File ID - 56029841
+Processing File ID - 56036710
+Processing File ID - 56066952
+Processing File ID - 56071998
+Processing File ID - 56084596
+Processing File ID - 56105834
+Processing File ID - 56117122
+Processing File ID - 56143943
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for S.C.T. TELECOM [5021].
+Processing File ID - 55962502
+Processing File ID - 55985982
+Processing File ID - 56006486
+Processing File ID - 56031242
+Processing File ID - 56043524
+Processing File ID - 56064864
+Processing File ID - 56074507
+Processing File ID - 56087151
+Processing File ID - 56108544
+Processing File ID - 56119304
+Processing File ID - 56146189
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for CELTE SRL [5100].
+Processing File ID - 55961879
+Processing File ID - 55985558
+Processing File ID - 56006711
+Processing File ID - 56029818
+Processing File ID - 56044435
+Processing File ID - 56065527
+Processing File ID - 56082865
+Processing File ID - 56104187
+Processing File ID - 56115518
+Processing File ID - 56148122
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SERVICIOS TELEMATICOS DIGITALES S.L. [5887].
+Processing File ID - 55963233
+Processing File ID - 55986812
+Processing File ID - 56008442
+Processing File ID - 56030111
+Processing File ID - 56044346
+Processing File ID - 56065372
+Processing File ID - 56076282
+Processing File ID - 56087553
+Processing File ID - 56111218
+Processing File ID - 56131211
+Processing File ID - 56146815
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for COMPUTER AIDED TELEPHONY SYSTEMS LTD. (CATS) [8230].
+Processing File ID - 55962940
+Processing File ID - 55986706
+Processing File ID - 56005713
+Processing File ID - 56028124
+Processing File ID - 56044103
+Processing File ID - 56074574
+Processing File ID - 56074927
+Processing File ID - 56093083
+Processing File ID - 56110935
+Processing File ID - 56131591
+Processing File ID - 56146982
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for CDW COMPUTER CENTERS INC [11653].
+Processing File ID - 55965313
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55988626
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56008832
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56030194
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56046410
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56048744
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56067155
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56076873
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56089598
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56111227
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56132168
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56148756
+Multi Partner column - REPORTER_ID does not exists in the file.
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for CMS COMMUNICATIONS [13211].
+Processing File ID - 56030773
+Processing File ID - 56109100
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ORIGO HF [21054].
+Processing File ID - 55961796
+Processing File ID - 55985252
+Processing File ID - 56005512
+Processing File ID - 56026802
+Processing File ID - 56043206
+Processing File ID - 56064090
+Processing File ID - 56073965
+Processing File ID - 56086754
+Processing File ID - 56107922
+Processing File ID - 56118704
+Processing File ID - 56121752
+Error: could not change to /FY22Q1/21054/56121752
+Processing File ID - 56145706
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for EXERTIS UK [29536].
+Processing File ID - 55962593
+Processing File ID - 55985960
+Processing File ID - 56006255
+Processing File ID - 56029833
+Processing File ID - 56043815
+Processing File ID - 56064496
+Processing File ID - 56074257
+Processing File ID - 56089124
+Processing File ID - 56109244
+Processing File ID - 56119098
+Processing File ID - 56145886
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for BUREAUTIQUE ET COMMUNICATION [46500].
+Processing File ID - 55962809
+Processing File ID - 55989745
+Processing File ID - 56006556
+Processing File ID - 56012738
+Processing File ID - 56029938
+Processing File ID - 56051756
+Processing File ID - 56077959
+Processing File ID - 56091756
+Processing File ID - 56110843
+Processing File ID - 56121689
+Processing File ID - 56148236
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SYNNEX CANADA [46908].
+Processing File ID - 55960033
+Processing File ID - 55983713
+Processing File ID - 56006384
+Processing File ID - 56026245
+Processing File ID - 56041288
+Processing File ID - 56062809
+Processing File ID - 56072275
+Processing File ID - 56084774
+Processing File ID - 56107066
+Processing File ID - 56118137
+Processing File ID - 56144855
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for PC CONNECTION [48078].
+Processing File ID - 55962808
+Processing File ID - 55988398
+Processing File ID - 56006344
+Processing File ID - 56012470
+Processing File ID - 56027552
+Processing File ID - 56043924
+Processing File ID - 56052456
+Processing File ID - 56064917
+Processing File ID - 56089416
+Processing File ID - 56108642
+Processing File ID - 56109466
+Processing File ID - 56110380
+Error: could not change to /FY22Q1/48078/56110380
+Processing File ID - 56121451
+Processing File ID - 56146341
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for KOMSA AG [49538].
+Processing File ID - 55962006
+Processing File ID - 55985592
+Processing File ID - 56005622
+Processing File ID - 56026855
+Processing File ID - 56043156
+Processing File ID - 56064213
+Processing File ID - 56073925
+Processing File ID - 56086427
+Processing File ID - 56108020
+Processing File ID - 56118686
+Processing File ID - 56145642
+Error: Can't find workbook in OLE2 compound document
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for EXERTIS FRANCE NANTERRE [50333].
+Processing File ID - 56033374
+Processing File ID - 56034173
+Error: could not change to /FY22Q1/50333/56034173
+Processing File ID - 56102761
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for WESTCON GROUP NETHERLANDS BV [52381].
+Processing File ID - 55962090
+Processing File ID - 55985701
+Processing File ID - 56005803
+Processing File ID - 56027038
+Processing File ID - 56043421
+Processing File ID - 56064417
+Processing File ID - 56074148
+Processing File ID - 56089142
+Processing File ID - 56108213
+Processing File ID - 56118879
+Processing File ID - 56145883
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for KONTEL SP. Z O.O. SP.K. [64963].
+Processing File ID - 55965093
+Processing File ID - 55988649
+Processing File ID - 56008647
+Processing File ID - 56030478
+Processing File ID - 56046079
+Processing File ID - 56067097
+Processing File ID - 56076684
+Processing File ID - 56089089
+Processing File ID - 56110908
+Processing File ID - 56131603
+Processing File ID - 56148421
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ISICOM AB [67903].
+Processing File ID - 55962063
+Processing File ID - 55985642
+Processing File ID - 56005623
+Processing File ID - 56026856
+Processing File ID - 56043217
+Processing File ID - 56064256
+Processing File ID - 56073924
+Processing File ID - 56086426
+Processing File ID - 56108021
+Processing File ID - 56118741
+Processing File ID - 56145675
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SC ABN SYSTEMS INT. SRL [72825].
+Processing File ID - 55962475
+Processing File ID - 55986331
+Processing File ID - 56006140
+Processing File ID - 56029869
+Processing File ID - 56043782
+Processing File ID - 56053172
+Processing File ID - 56053174
+Processing File ID - 56064458
+Processing File ID - 56074383
+Processing File ID - 56087856
+Processing File ID - 56108215
+Processing File ID - 56119044
+Processing File ID - 56148435
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for COMPUTER GROSS SPA [87375].
+Processing File ID - 55961275
+Processing File ID - 55984781
+Processing File ID - 56005125
+Processing File ID - 56026800
+Processing File ID - 56043105
+Processing File ID - 56063779
+Processing File ID - 56074014
+Processing File ID - 56086938
+Processing File ID - 56107594
+Processing File ID - 56118828
+Processing File ID - 56145780
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ITANCIA SARL [261620].
+Processing File ID - 55962772
+Processing File ID - 55986776
+Processing File ID - 56007006
+Processing File ID - 56027760
+Processing File ID - 56044232
+Processing File ID - 56065480
+Processing File ID - 56076650
+Processing File ID - 56087594
+Processing File ID - 56109360
+Processing File ID - 56119466
+Processing File ID - 56146719
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for INSIGHT [352423].
+Processing File ID - 55963983
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55986959
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56007262
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56028453
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56032169
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56044795
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56066130
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56075369
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56081872
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56090005
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56109707
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56109849
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56120228
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56120229
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56122395
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56147459
+Multi Partner column - REPORTER_ID does not exists in the file.
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ESPRINET SPA [385049].
+Processing File ID - 55962977
+Processing File ID - 55986334
+Processing File ID - 56006615
+Processing File ID - 56027636
+Processing File ID - 56044070
+Processing File ID - 56065116
+Processing File ID - 56076828
+Processing File ID - 56087426
+Processing File ID - 56108600
+Processing File ID - 56120027
+Processing File ID - 56146622
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SENSUS COMMUNICATION SOLUTIONS [431904].
+Processing File ID - 56012334
+Processing File ID - 56049515
+Processing File ID - 56070103
+Processing File ID - 56085019
+Processing File ID - 56103066
+Processing File ID - 56103067
+Processing File ID - 56115621
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ALSO DEUTSCHLAND GMBH [440104].
+Processing File ID - 55961956
+Processing File ID - 55985587
+Processing File ID - 56005717
+Processing File ID - 56027127
+Processing File ID - 56043426
+Processing File ID - 56064391
+Processing File ID - 56074251
+Processing File ID - 56086791
+Processing File ID - 56108302
+Processing File ID - 56118902
+Processing File ID - 56146594
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ALLNET ITALIA S.P.A. [469883].
+Processing File ID - 55966902
+Processing File ID - 55988161
+Processing File ID - 56008963
+Processing File ID - 56033338
+Processing File ID - 56050800
+Processing File ID - 56078296
+Processing File ID - 56081907
+Processing File ID - 56089466
+Processing File ID - 56113300
+Processing File ID - 56141310
+Processing File ID - 56147250
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ZONES INC [502078].
+Processing File ID - 55964017
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 55986991
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56007195
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56012135
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56028360
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56045175
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56065707
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56068837
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56075609
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56090063
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56110019
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56120543
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56122762
+Error: could not change to /FY22Q1/502078/56122762
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for GTI SOFTWARE Y NETWORKING S.A [505592].
+Processing File ID - 55966593
+Processing File ID - 55988719
+Processing File ID - 56008594
+Processing File ID - 56031983
+Processing File ID - 56047658
+Processing File ID - 56067020
+Processing File ID - 56076901
+Processing File ID - 56101152
+Processing File ID - 56111385
+Processing File ID - 56133318
+Processing File ID - 56148649
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for STANFORD EUROPE LTD [508416].
+Processing File ID - 55963381
+Processing File ID - 55986811
+Processing File ID - 56006700
+Processing File ID - 56027828
+Processing File ID - 56065117
+Processing File ID - 56074859
+Processing File ID - 56087409
+Processing File ID - 56109233
+Processing File ID - 56119589
+Processing File ID - 56147068
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for WESTCON MIDDLE EAST LTD [547908].
+Processing File ID - 55961680
+Processing File ID - 55985250
+Processing File ID - 56005401
+Processing File ID - 56026719
+Processing File ID - 56043060
+Processing File ID - 56063955
+Processing File ID - 56073966
+Processing File ID - 56089010
+Processing File ID - 56107784
+Processing File ID - 56118550
+Processing File ID - 56145516
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ABRIS DISTRIBUTION INC [555603].
+Processing File ID - 55962271
+Processing File ID - 55984871
+Processing File ID - 56005805
+Processing File ID - 56027281
+Processing File ID - 56043254
+Processing File ID - 56064600
+Processing File ID - 56074150
+Processing File ID - 56087071
+Processing File ID - 56108246
+Processing File ID - 56118945
+Processing File ID - 56145250
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SHI INTERNATIONAL CORP [560501].
+Processing File ID - 55962953
+Processing File ID - 55986385
+Processing File ID - 56006493
+Processing File ID - 56027639
+Processing File ID - 56044017
+Processing File ID - 56064913
+Processing File ID - 56074650
+Processing File ID - 56089498
+Processing File ID - 56108765
+Processing File ID - 56119922
+Processing File ID - 56146561
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for GST GOLDEN STAR TECHNOLOGIES [571065].
+Processing File ID - 55959876
+Processing File ID - 55983437
+Processing File ID - 56007981
+Processing File ID - 56025749
+Processing File ID - 56062232
+Processing File ID - 56072206
+Processing File ID - 56084626
+Processing File ID - 56106633
+Processing File ID - 56117283
+Processing File ID - 56143974
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for HELLO DIRECT INC [586399].
+Processing File ID - 55962885
+Processing File ID - 55986407
+Processing File ID - 56007219
+Processing File ID - 56027819
+Processing File ID - 56044373
+Processing File ID - 56067058
+Processing File ID - 56074619
+Processing File ID - 56089753
+Processing File ID - 56109310
+Processing File ID - 56119484
+Processing File ID - 56146572
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for AL ZUBAIR GROUP FZE [587953].
+Processing File ID - 55965207
+Processing File ID - 55988132
+Processing File ID - 56011267
+Processing File ID - 56030288
+Processing File ID - 56045686
+Processing File ID - 56067095
+Processing File ID - 56076535
+Processing File ID - 56089145
+Processing File ID - 56112982
+Processing File ID - 56133789
+Processing File ID - 56148706
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for INSIGHT CANADA [633314].
+Processing File ID - 55963984
+Processing File ID - 55986960
+Processing File ID - 56007263
+Processing File ID - 56028451
+Processing File ID - 56044793
+Processing File ID - 56066126
+Processing File ID - 56075370
+Processing File ID - 56090003
+Processing File ID - 56109705
+Processing File ID - 56120227
+Processing File ID - 56147461
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for GHA TECHNOLOGIES [2003254].
+Processing File ID - 55971175
+Processing File ID - 55987234
+Processing File ID - 56007480
+Processing File ID - 56028387
+Processing File ID - 56044874
+Processing File ID - 56065790
+Processing File ID - 56075461
+Processing File ID - 56090213
+Processing File ID - 56109998
+Processing File ID - 56120300
+Processing File ID - 56147262
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for DICKER DATA LIMITED [2016719].
+Processing File ID - 55961357
+Processing File ID - 56005216
+Processing File ID - 56026698
+Processing File ID - 56042656
+Processing File ID - 56053355
+Processing File ID - 56068897
+Processing File ID - 56073482
+Processing File ID - 56085996
+Processing File ID - 56107917
+Processing File ID - 56131650
+Processing File ID - 56145248
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for COMPUGEN [2023853].
+Processing File ID - 56028205
+Processing File ID - 56101669
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for INGRAM MICRO INTERNATIONAL [2040111].
+Processing File ID - 55965423
+Processing File ID - 55986772
+Processing File ID - 56006966
+Processing File ID - 56027860
+Processing File ID - 56044396
+Processing File ID - 56052947
+Processing File ID - 56065407
+Processing File ID - 56089793
+Processing File ID - 56109377
+Processing File ID - 56120301
+Processing File ID - 56147016
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for PROVANTAGE LLC [2042705].
+Processing File ID - 56030016
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56030208
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56048750
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56090051
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56090052
+Multi Partner column - REPORTER_ID does not exists in the file.
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SYNNEX CORPORATION [2046200].
+Processing File ID - 55932649
+Processing File ID - 55953268
+Processing File ID - 55955408
+Processing File ID - 55956884
+Processing File ID - 55958345
+Processing File ID - 55960034
+Processing File ID - 55960035
+Processing File ID - 55963253
+Processing File ID - 55965153
+Processing File ID - 55967030
+Processing File ID - 55967808
+Processing File ID - 55981399
+Processing File ID - 55983714
+Processing File ID - 55983715
+Processing File ID - 55991519
+Processing File ID - 55991838
+Processing File ID - 55991928
+Processing File ID - 56001840
+Processing File ID - 56006376
+Processing File ID - 56006381
+Processing File ID - 56007073
+Processing File ID - 56008872
+Processing File ID - 56011272
+Processing File ID - 56022840
+Processing File ID - 56026242
+Processing File ID - 56026243
+Processing File ID - 56026244
+Processing File ID - 56030355
+Processing File ID - 56032267
+Processing File ID - 56033640
+Processing File ID - 56041287
+Processing File ID - 56041289
+Processing File ID - 56041290
+Processing File ID - 56044537
+Processing File ID - 56047279
+Processing File ID - 56048356
+Processing File ID - 56049498
+Processing File ID - 56062807
+Processing File ID - 56062808
+Processing File ID - 56062810
+Processing File ID - 56066558
+Processing File ID - 56067270
+Processing File ID - 56068632
+Processing File ID - 56068838
+Processing File ID - 56069831
+Processing File ID - 56072266
+Processing File ID - 56072273
+Processing File ID - 56072274
+Processing File ID - 56075208
+Processing File ID - 56077018
+Processing File ID - 56078301
+Processing File ID - 56082159
+Processing File ID - 56084773
+Processing File ID - 56084775
+Processing File ID - 56090854
+Processing File ID - 56102311
+Processing File ID - 56103384
+Processing File ID - 56107068
+Processing File ID - 56107069
+Processing File ID - 56107070
+Processing File ID - 56110530
+Processing File ID - 56113406
+Processing File ID - 56113498
+Processing File ID - 56114565
+Processing File ID - 56118135
+Processing File ID - 56118136
+Processing File ID - 56118138
+Processing File ID - 56122324
+Processing File ID - 56133138
+Processing File ID - 56133968
+Processing File ID - 56141631
+Processing File ID - 56144854
+Processing File ID - 56144856
+Processing File ID - 56147029
+Processing File ID - 56148916
+Processing File ID - 56150452
+Processing File ID - 56151421
+Error: could not change to /FY22Q1/2046200/56151421
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for CDW CANADA [2089377].
+Processing File ID - 55965504
+Processing File ID - 55988739
+Processing File ID - 56010829
+Processing File ID - 56030225
+Processing File ID - 56046507
+Processing File ID - 56067139
+Processing File ID - 56081403
+Processing File ID - 56101390
+Processing File ID - 56111636
+Processing File ID - 56141551
+Processing File ID - 56148943
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for EPLUS TECHNOLOGY INC [2103411].
+Processing File ID - 56012332
+Processing File ID - 56109137
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for GOGOTECH II LLC [2106769].
+Processing File ID - 55962042
+Processing File ID - 55963231
+Processing File ID - 55985676
+Processing File ID - 55985677
+Processing File ID - 56005755
+Processing File ID - 56005758
+Processing File ID - 56027031
+Processing File ID - 56027034
+Processing File ID - 56043377
+Processing File ID - 56043378
+Processing File ID - 56064387
+Processing File ID - 56064389
+Processing File ID - 56074111
+Processing File ID - 56074112
+Processing File ID - 56086723
+Processing File ID - 56086725
+Processing File ID - 56108146
+Processing File ID - 56108150
+Processing File ID - 56118842
+Processing File ID - 56121474
+Processing File ID - 56145853
+Processing File ID - 56145854
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for IT1SOURCE [2139175].
+Processing File ID - 56012072
+Processing File ID - 56092198
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SOFTCHOICE CORPORATION [2148681].
+Processing File ID - 56027721
+Processing File ID - 56089682
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for INGRAM MICRO S.A.C. [2168977].
+Processing File ID - 55971210
+Processing File ID - 55987278
+Processing File ID - 56007545
+Processing File ID - 56028385
+Processing File ID - 56045013
+Processing File ID - 56065853
+Processing File ID - 56075604
+Processing File ID - 56088078
+Processing File ID - 56110125
+Processing File ID - 56133903
+Processing File ID - 56147305
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for INGRAM MICRO S A S (INGRAM MICRO INFORMATICA LTDA) [2168978].
+Processing File ID - 55964231
+Processing File ID - 55987184
+Processing File ID - 56007785
+Processing File ID - 56028535
+Processing File ID - 56044976
+Processing File ID - 56067582
+Processing File ID - 56075571
+Processing File ID - 56088074
+Processing File ID - 56111752
+Processing File ID - 56132546
+Processing File ID - 56147453
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ATLANTIS TELECOM SPOL.S.R.O [2169649].
+Processing File ID - 55964887
+Processing File ID - 55986217
+Processing File ID - 56010213
+Processing File ID - 56028269
+Processing File ID - 56045620
+Processing File ID - 56064936
+Processing File ID - 56074895
+Processing File ID - 56089258
+Processing File ID - 56113080
+Processing File ID - 56120213
+Processing File ID - 56151168
+Error: could not change to /FY22Q1/2169649/56151168
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for AUTOMATION AIDS INC [2175880].
+Processing File ID - 56031835
+Multi Partner column - REPORTER_ID does not exists in the file.
+Processing File ID - 56032870
+Processing File ID - 56090608
+Processing File ID - 56091876
+Multi Partner column - REPORTER_ID does not exists in the file.
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for FIRST VIDEO COMMUNICATIONS FZ LLC [2178160].
+Processing File ID - 55964040
+Processing File ID - 55987163
+Processing File ID - 56007516
+Processing File ID - 56028445
+Processing File ID - 56046208
+Processing File ID - 56065855
+Processing File ID - 56075492
+Processing File ID - 56088683
+Processing File ID - 56110018
+Processing File ID - 56120255
+Processing File ID - 56148628
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ALSO FINLAND OY [2182261].
+Processing File ID - 55961956
+Processing File ID - 55985587
+Processing File ID - 56005717
+Processing File ID - 56027127
+Processing File ID - 56043426
+Processing File ID - 56064391
+Processing File ID - 56074251
+Processing File ID - 56086791
+Processing File ID - 56108302
+Processing File ID - 56118902
+Processing File ID - 56146594
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ALSO A/S [2184055].
+Processing File ID - 55961956
+Processing File ID - 55985587
+Processing File ID - 56005717
+Processing File ID - 56027127
+Processing File ID - 56043426
+Processing File ID - 56064391
+Processing File ID - 56074251
+Processing File ID - 56086791
+Processing File ID - 56108302
+Processing File ID - 56118902
+Processing File ID - 56146594
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for WESTCON GROUP EUROPEAN OPERATIONS LTD (AFRICA) [2276549].
+Processing File ID - 55962090
+Processing File ID - 55985701
+Processing File ID - 56005485
+Processing File ID - 56005803
+Processing File ID - 56027038
+Processing File ID - 56043113
+Processing File ID - 56043421
+Processing File ID - 56064087
+Processing File ID - 56074148
+Processing File ID - 56088980
+Processing File ID - 56089142
+Processing File ID - 56108213
+Processing File ID - 56118650
+Processing File ID - 56118879
+Processing File ID - 56145883
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for INGRAM MICRO UK [2341164].
+Processing File ID - 55963422
+Processing File ID - 55986942
+Processing File ID - 56006922
+Processing File ID - 56029274
+Processing File ID - 56046038
+Processing File ID - 56065786
+Processing File ID - 56077783
+Processing File ID - 56087724
+Processing File ID - 56109747
+Processing File ID - 56133930
+Processing File ID - 56146820
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for WESTCON GROUP EUROPEAN OPERATIONS LIMITED (UK) [2389161].
+Processing File ID - 55962090
+Processing File ID - 55985701
+Processing File ID - 56005803
+Processing File ID - 56027038
+Processing File ID - 56043421
+Processing File ID - 56048177
+Processing File ID - 56064417
+Processing File ID - 56074148
+Processing File ID - 56089142
+Processing File ID - 56108213
+Processing File ID - 56118879
+Processing File ID - 56145883
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for NETXUSA INC (INGRAM MICRO US CONTRACT) [2409278].
+Processing File ID - 55953349
+Processing File ID - 55955020
+Processing File ID - 55956771
+Processing File ID - 55958257
+Processing File ID - 55962830
+Processing File ID - 55965251
+Processing File ID - 55966881
+Processing File ID - 55968037
+Processing File ID - 55981853
+Processing File ID - 55986633
+Processing File ID - 55988410
+Processing File ID - 55989787
+Processing File ID - 55991104
+Processing File ID - 56002087
+Processing File ID - 56006540
+Processing File ID - 56008801
+Processing File ID - 56010373
+Processing File ID - 56021597
+Processing File ID - 56022733
+Processing File ID - 56027609
+Processing File ID - 56030092
+Processing File ID - 56031909
+Processing File ID - 56033489
+Processing File ID - 56034708
+Processing File ID - 56044021
+Processing File ID - 56046239
+Processing File ID - 56048076
+Processing File ID - 56048812
+Processing File ID - 56050639
+Processing File ID - 56065034
+Processing File ID - 56067065
+Processing File ID - 56068453
+Processing File ID - 56069690
+Processing File ID - 56070649
+Processing File ID - 56074616
+Processing File ID - 56076733
+Processing File ID - 56078124
+Processing File ID - 56082052
+Processing File ID - 56089439
+Processing File ID - 56089807
+Processing File ID - 56101285
+Processing File ID - 56102754
+Processing File ID - 56104135
+Processing File ID - 56108828
+Processing File ID - 56111092
+Processing File ID - 56114422
+Processing File ID - 56114423
+Processing File ID - 56115501
+Processing File ID - 56117999
+Processing File ID - 56132100
+Processing File ID - 56133663
+Processing File ID - 56141532
+Processing File ID - 56142455
+Processing File ID - 56146438
+Processing File ID - 56148668
+Processing File ID - 56149965
+Processing File ID - 56151328
+Error: could not change to /FY22Q1/2409278/56151328
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for BLACK BOX RESALE SERVICES [103362013].
+Processing File ID - 56027722
+Processing File ID - 56088137
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for BUSINESS TELECOM PRODUCTS INC [103362014].
+Processing File ID - 55958814
+Processing File ID - 55982416
+Processing File ID - 56002571
+Processing File ID - 56023991
+Processing File ID - 56035608
+Processing File ID - 56061224
+Processing File ID - 56071158
+Processing File ID - 56083567
+Processing File ID - 56104813
+Processing File ID - 56116145
+Processing File ID - 56142970
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for HEADSETS DIRECT INC [103362015].
+Processing File ID - 55958736
+Processing File ID - 55982312
+Processing File ID - 56002422
+Processing File ID - 56023817
+Processing File ID - 56035429
+Processing File ID - 56051061
+Processing File ID - 56071798
+Processing File ID - 56083291
+Processing File ID - 56104661
+Processing File ID - 56116629
+Processing File ID - 56142818
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for LEXAIR ELECTRONICS SALES CORP [103362017].
+Processing File ID - 56012562
+Processing File ID - 56012563
+Processing File ID - 56104491
+Processing File ID - 56104492
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for LIBERTEL ASSOCIATES [103362018].
+Processing File ID - 56031854
+Processing File ID - 56092197
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for T 3 E CO [103362020].
+Processing File ID - 55963791
+Processing File ID - 55987120
+Processing File ID - 56007492
+Processing File ID - 56028533
+Processing File ID - 56046672
+Processing File ID - 56065708
+Processing File ID - 56075260
+Processing File ID - 56090012
+Processing File ID - 56109604
+Processing File ID - 56133790
+Processing File ID - 56147084
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for TAPE TEL ELECTRONICS [103362021].
+Processing File ID - 56027402
+Processing File ID - 56091608
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for TELE-COMMUNICATION INC [103362022].
+Processing File ID - 55971410
+Processing File ID - 55991878
+Processing File ID - 56009342
+Processing File ID - 56012173
+Processing File ID - 56046644
+Processing File ID - 56068964
+Processing File ID - 56077206
+Processing File ID - 56089831
+Processing File ID - 56109479
+Processing File ID - 56132005
+Processing File ID - 56147469
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SENCOMMUNICATIONS INC [103362026].
+Processing File ID - 55963358
+Processing File ID - 55986316
+Processing File ID - 56006466
+Processing File ID - 56012136
+Processing File ID - 56030021
+Processing File ID - 56043975
+Processing File ID - 56064938
+Processing File ID - 56074592
+Processing File ID - 56089417
+Processing File ID - 56108849
+Processing File ID - 56119400
+Processing File ID - 56146422
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for GENTEK MARKETING, INC. [103389213].
+Processing File ID - 55963242
+Processing File ID - 55984293
+Processing File ID - 56007043
+Processing File ID - 56028255
+Processing File ID - 56041342
+Processing File ID - 56065699
+Processing File ID - 56075242
+Processing File ID - 56091910
+Processing File ID - 56109416
+Processing File ID - 56119636
+Processing File ID - 56146493
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for EXERTIS CONNECT (FRANCE) [103378862].
+Processing File ID - 55961834
+Processing File ID - 55985321
+Processing File ID - 56008684
+Processing File ID - 56027900
+Processing File ID - 56044312
+Processing File ID - 56066948
+Processing File ID - 56074736
+Processing File ID - 56087603
+Processing File ID - 56110712
+Processing File ID - 56132169
+Processing File ID - 56141401
+Processing File ID - 56149953
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for INGRAM (PAN-EMEA) [103382332].
+Processing File ID - 55963422
+Processing File ID - 55986942
+Processing File ID - 56006922
+Processing File ID - 56029274
+Processing File ID - 56046038
+Processing File ID - 56065786
+Processing File ID - 56077783
+Processing File ID - 56087724
+Processing File ID - 56109747
+Processing File ID - 56133930
+Processing File ID - 56146820
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for MACONDO NETWORKS LLC [103422734].
+Processing File ID - 55962887
+Processing File ID - 55986219
+Processing File ID - 56006868
+Processing File ID - 56027692
+Processing File ID - 56044256
+Processing File ID - 56065235
+Processing File ID - 56074562
+Processing File ID - 56089628
+Processing File ID - 56109232
+Processing File ID - 56119813
+Processing File ID - 56146756
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for MCS IT DISTRIBUTION LIMITED [103425210].
+Processing File ID - 55963131
+Processing File ID - 55986777
+Processing File ID - 56006734
+Processing File ID - 56027796
+Processing File ID - 56044208
+Processing File ID - 56065376
+Processing File ID - 56074932
+Processing File ID - 56088933
+Processing File ID - 56109271
+Processing File ID - 56119861
+Processing File ID - 56146875
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for STARIN MARKETING INC [103472228].
+Processing File ID - 55962642
+Processing File ID - 55986236
+Processing File ID - 56006324
+Processing File ID - 56027519
+Processing File ID - 56043923
+Processing File ID - 56064861
+Processing File ID - 56074560
+Processing File ID - 56087175
+Processing File ID - 56090198
+Processing File ID - 56108675
+Processing File ID - 56119353
+Processing File ID - 56146373
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ALSO SCHWEIZ AG [ACT-CHE-001].
+Processing File ID - 55961956
+Processing File ID - 55985587
+Processing File ID - 56005717
+Processing File ID - 56027127
+Processing File ID - 56043426
+Processing File ID - 56064391
+Processing File ID - 56074251
+Processing File ID - 56086791
+Processing File ID - 56108302
+Processing File ID - 56118902
+Processing File ID - 56146594
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ARMADA BILGISAYAR SISTEMLERI SAN. VE TIC. A.S. [ARM-TUR-001].
+Processing File ID - 55962501
+Processing File ID - 55985364
+Processing File ID - 56005371
+Processing File ID - 56086258
+Processing File ID - 56118440
+Processing File ID - 56145180
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for CHARMEX INTERNATIONAL S.A. [CHA-ESP-001].
+Processing File ID - 55966527
+Processing File ID - 55991423
+Processing File ID - 56009928
+Processing File ID - 56011975
+Processing File ID - 56047495
+Processing File ID - 56052983
+Processing File ID - 56067931
+Processing File ID - 56091947
+Processing File ID - 56112203
+Processing File ID - 56132374
+Processing File ID - 56148656
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ELINK DISTRIBUTION [ELI-DEU-001].
+Submitter Name - ELINK DISTRIBUTION [ELI-DEU-001] not found in OBIEE File.
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for KERN & STELLY MEDIENTECHNIK GMBH [103542868].
+Record not found in  Model-N file for Partner File ID - 55966690
+Record not found in  Model-N file for Partner File ID - 55989705
+Record not found in  Model-N file for Partner File ID - 56008371
+Processing File ID - 55966690
+Processing File ID - 55989705
+Processing File ID - 56008371
+Processing File ID - 56012277
+Processing File ID - 56046334
+Processing File ID - 56052036
+Processing File ID - 56090340
+Processing File ID - 56092076
+Processing File ID - 56111141
+Processing File ID - 56133573
+Processing File ID - 56148246
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ISOLIN TRADE & INVEST LIMITED (OCS) [ISO-CYP-001].
+Processing File ID - 55962598
+Processing File ID - 55981912
+Processing File ID - 56007448
+Processing File ID - 56027238
+Processing File ID - 56046448
+Processing File ID - 56065411
+Processing File ID - 56075175
+Processing File ID - 56087691
+Processing File ID - 56109265
+Processing File ID - 56132124
+Processing File ID - 56146758
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ITANCIA AFRICA [ITA-AFR-001].
+Processing File ID - 55962772
+Processing File ID - 56007006
+Processing File ID - 56008507
+Processing File ID - 56027760
+Processing File ID - 56044232
+Processing File ID - 56065480
+Processing File ID - 56076650
+Processing File ID - 56087594
+Processing File ID - 56109360
+Processing File ID - 56119466
+Processing File ID - 56146719
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for KATHEA COMMUNICATIONS SOLUTIONS (PTY)LTD [KAT-ZAF-001].
+Processing File ID - 55981358
+Processing File ID - 55986537
+Processing File ID - 56009924
+Processing File ID - 56011649
+Processing File ID - 56012843
+Processing File ID - 56051953
+Processing File ID - 56053373
+Processing File ID - 56091238
+Processing File ID - 56113225
+Processing File ID - 56132050
+Processing File ID - 56149666
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for LASTING SYSTEM SRL. [LAS-ROM-001].
+Processing File ID - 55968069
+Processing File ID - 55987901
+Processing File ID - 56012398
+Processing File ID - 56027845
+Processing File ID - 56068939
+Processing File ID - 56068982
+Processing File ID - 56089425
+Processing File ID - 56089561
+Processing File ID - 56119508
+Processing File ID - 56119848
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for LLC COMPANY INTER [LLC-RUS-001].
+Processing File ID - 55962823
+Processing File ID - 55986771
+Processing File ID - 56006253
+Processing File ID - 56065187
+Processing File ID - 56074713
+Processing File ID - 56091419
+Processing File ID - 56107822
+Processing File ID - 56115370
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for NEXSYS INTERNATIONAL, LC [NEXSYS-INTL].
+Processing File ID - 55967137
+Processing File ID - 55989845
+Processing File ID - 56030671
+Processing File ID - 56069734
+Processing File ID - 56082068
+Processing File ID - 56101697
+Processing File ID - 56133922
+Processing File ID - 56150739
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SEC DATACOM A/S [SEC-DNK-001].
+Processing File ID - 55961093
+Processing File ID - 55984761
+Processing File ID - 56005123
+Processing File ID - 56025422
+Processing File ID - 56042577
+Processing File ID - 56062280
+Processing File ID - 56073346
+Processing File ID - 56084694
+Processing File ID - 56106095
+Processing File ID - 56117279
+Processing File ID - 56144000
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for EXCLUSIVE NETWORKS PTY LTD [TSA-AUS-001].
+Processing File ID - 55961111
+Processing File ID - 55984544
+Processing File ID - 56004540
+Processing File ID - 56025800
+Processing File ID - 56041615
+Processing File ID - 56063194
+Processing File ID - 56072641
+Processing File ID - 56085375
+Processing File ID - 56106537
+Processing File ID - 56115958
+Processing File ID - 56144598
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for NUVIAS (SIPHON NETWORKS) [VCO-GBR-002].
+Processing File ID - 55965439
+Processing File ID - 55988240
+Processing File ID - 56009083
+Processing File ID - 56032262
+Processing File ID - 56046027
+Processing File ID - 56067204
+Processing File ID - 56076681
+Processing File ID - 56101668
+Processing File ID - 56111283
+Processing File ID - 56131769
+Processing File ID - 56148837
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for NUVIAS EUROPE (SIPHON NETWORKS) [VCO-NLD-001].
+Processing File ID - 55965421
+Processing File ID - 55988241
+Processing File ID - 56009082
+Processing File ID - 56032266
+Processing File ID - 56046028
+Processing File ID - 56067205
+Processing File ID - 56076680
+Processing File ID - 56101231
+Processing File ID - 56111275
+Processing File ID - 56119094
+Processing File ID - 56146359
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for VERACOMP - EXCLUSIVE NETWORKS POLAND S.A. [103682721].
+Processing File ID - 55962504
+Processing File ID - 55986019
+Processing File ID - 56006565
+Processing File ID - 56030079
+Processing File ID - 56044018
+Processing File ID - 56066960
+Processing File ID - 56074857
+Processing File ID - 56087101
+Processing File ID - 56108336
+Processing File ID - 56119491
+Processing File ID - 56146066
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for VIDENDA DISTRIBUTION LIMITED [VID-IRL-001].
+Processing File ID - 55963164
+Processing File ID - 55986724
+Processing File ID - 56006158
+Processing File ID - 56030101
+Processing File ID - 56043978
+Processing File ID - 56065409
+Processing File ID - 56074539
+Processing File ID - 56091770
+Processing File ID - 56093006
+Processing File ID - 56119275
+Processing File ID - 56146374
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for WESTCONGROUP SA (PTY) LTD [WES-ZAF-001].
+Processing File ID - 55961794
+Processing File ID - 55985388
+Processing File ID - 56005484
+Processing File ID - 56026845
+Processing File ID - 56043115
+Processing File ID - 56064084
+Processing File ID - 56073989
+Processing File ID - 56088982
+Processing File ID - 56107878
+Processing File ID - 56118652
+Processing File ID - 56145667
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ANIXTER INTERNATIONAL [93478].
+Processing File ID - 55965532
+Processing File ID - 55988847
+Processing File ID - 56009141
+Processing File ID - 56030450
+Processing File ID - 56046691
+Processing File ID - 56067497
+Processing File ID - 56077129
+Processing File ID - 56090067
+Processing File ID - 56111672
+Processing File ID - 56132399
+Processing File ID - 56149049
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ANIXTER DO BRASIL LTDA [91077].
+Processing File ID - 55965532
+Processing File ID - 55988847
+Processing File ID - 56009141
+Processing File ID - 56030450
+Processing File ID - 56046691
+Processing File ID - 56067497
+Processing File ID - 56111672
+Processing File ID - 56132399
+Processing File ID - 56149049
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for ANIXTER DE MEXICO S A DE C V [165181].
+Processing File ID - 55965532
+Processing File ID - 55988847
+Processing File ID - 56009141
+Processing File ID - 56030450
+Processing File ID - 56046691
+Processing File ID - 56067497
+Processing File ID - 56077129
+Processing File ID - 56090067
+Processing File ID - 56111672
+Processing File ID - 56132399
+Processing File ID - 56149049
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for FONTEL INC [103775240].
+Processing File ID - 55971174
+Processing File ID - 55986949
+Processing File ID - 56007018
+Processing File ID - 56028275
+Processing File ID - 56044840
+Processing File ID - 56065818
+Processing File ID - 56075235
+Processing File ID - 56089781
+Processing File ID - 56109536
+Processing File ID - 56120047
+Processing File ID - 56147248
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for INTERNATIONAL RESOURCES INC [103362016].
+Processing File ID - 56033611
+Processing File ID - 56109399
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for SHI INTERNATIONAL CANADA [2103268].
+Processing File ID - 55962909
+Processing File ID - 55986319
+Processing File ID - 56006488
+Processing File ID - 56027550
+Processing File ID - 56043999
+Processing File ID - 56064895
+Processing File ID - 56074640
+Processing File ID - 56089484
+Processing File ID - 56108740
+Processing File ID - 56119546
+Processing File ID - 56146440
+
+
+--------------------------------------------------
+Processing Quarter - FY22Q1 for TELESWITCH INTERNATIONAL DBA SOTEL SYSTEMS LLC [56711].
+Processing File ID - 55968367
+Processing File ID - 56001219
+Processing File ID - 56009146
+Processing File ID - 56030709
+Processing File ID - 56049509
+Processing File ID - 56069092
+Processing File ID - 56081412
+Processing File ID - 56102896
+Processing File ID - 56111615
+Processing File ID - 56120362
+Processing File ID - 56149241

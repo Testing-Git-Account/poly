@@ -1,0 +1,403 @@
+
+Downloading Config, OBIIE, Model N files.
+
+
+--------------------------------------------------
+Processing folder - 103362013
+Partner = BLACK BOX RESALE SERVICES [103362013]
+No OBIEE Data available for partner - 'BLACK BOX RESALE SERVICES [103362013]'
+
+
+--------------------------------------------------
+Processing folder - 103362014
+Partner = BUSINESS TELECOM PRODUCTS INC [103362014]
+No OBIEE Data available for partner - 'BUSINESS TELECOM PRODUCTS INC [103362014]'
+
+
+--------------------------------------------------
+Processing folder - 103362015
+Partner = HEADSETS DIRECT INC [103362015]
+No OBIEE Data available for partner - 'HEADSETS DIRECT INC [103362015]'
+
+
+--------------------------------------------------
+Processing folder - 103362016
+Partner = INTERNATIONAL RESOURCES INC [103362016]
+No OBIEE Data available for partner - 'INTERNATIONAL RESOURCES INC [103362016]'
+
+
+--------------------------------------------------
+Processing folder - 103362018
+Partner = LIBERTEL ASSOCIATES [103362018]
+No OBIEE Data available for partner - 'LIBERTEL ASSOCIATES [103362018]'
+
+
+--------------------------------------------------
+Processing folder - 103362020
+Partner = T 3 E CO [103362020]
+No OBIEE Data available for partner - 'T 3 E CO [103362020]'
+
+
+--------------------------------------------------
+Processing folder - 103362021
+Partner = TAPE TEL ELECTRONICS [103362021]
+No OBIEE Data available for partner - 'TAPE TEL ELECTRONICS [103362021]'
+
+
+--------------------------------------------------
+Processing folder - 103362022
+Partner = TELE-COMMUNICATION INC [103362022]
+No OBIEE Data available for partner - 'TELE-COMMUNICATION INC [103362022]'
+
+
+--------------------------------------------------
+Processing folder - 103362026
+Partner = SENCOMMUNICATIONS INC [103362026]
+No OBIEE Data available for partner - 'SENCOMMUNICATIONS INC [103362026]'
+
+
+--------------------------------------------------
+Processing folder - 103378862
+Partner = EXERTIS CONNECT (FRANCE) [103378862]
+No OBIEE Data available for partner - 'EXERTIS CONNECT (FRANCE) [103378862]'
+
+
+--------------------------------------------------
+Processing folder - 103382332
+Partner = INGRAM (PAN-EMEA) [103382332]
+No OBIEE Data available for partner - 'INGRAM (PAN-EMEA) [103382332]'
+
+
+--------------------------------------------------
+Processing folder - 103422734
+Partner = MACONDO NETWORKS LLC [103422734]
+No OBIEE Data available for partner - 'MACONDO NETWORKS LLC [103422734]'
+
+
+--------------------------------------------------
+Processing folder - 103425210
+Partner = MCS IT DISTRIBUTION LIMITED [103425210]
+No OBIEE Data available for partner - 'MCS IT DISTRIBUTION LIMITED [103425210]'
+
+
+--------------------------------------------------
+Processing folder - 103472228
+Partner = STARIN MARKETING INC [103472228]
+No OBIEE Data available for partner - 'STARIN MARKETING INC [103472228]'
+
+
+--------------------------------------------------
+Processing folder - 103682721
+Partner = VERACOMP - EXCLUSIVE NETWORKS POLAND S.A. [103682721]
+No OBIEE Data available for partner - 'VERACOMP - EXCLUSIVE NETWORKS POLAND S.A. [103682721]'
+
+
+--------------------------------------------------
+Processing folder - 103775240
+Partner = FONTEL INC [103775240]
+No OBIEE Data available for partner - 'FONTEL INC [103775240]'
+
+
+--------------------------------------------------
+Processing folder - 11653
+Partner = CDW COMPUTER CENTERS INC [11653]
+No OBIEE Data available for partner - 'CDW COMPUTER CENTERS INC [11653]'
+
+
+--------------------------------------------------
+Processing folder - 1594
+Partner = CALL ONE INC [1594]
+No OBIEE Data available for partner - 'CALL ONE INC [1594]'
+
+
+--------------------------------------------------
+Processing folder - 165181
+Partner = ANIXTER DE MEXICO S A DE C V [165181]
+No OBIEE Data available for partner - 'ANIXTER DE MEXICO S A DE C V [165181]'
+
+
+--------------------------------------------------
+Processing folder - 2003254
+Partner = GHA TECHNOLOGIES [2003254]
+No OBIEE Data available for partner - 'GHA TECHNOLOGIES [2003254]'
+
+
+--------------------------------------------------
+Processing folder - 2016719
+Partner = DICKER DATA LIMITED [2016719]
+No OBIEE Data available for partner - 'DICKER DATA LIMITED [2016719]'
+
+
+--------------------------------------------------
+Processing folder - 2023853
+Partner = COMPUGEN [2023853]
+No OBIEE Data available for partner - 'COMPUGEN [2023853]'
+
+
+--------------------------------------------------
+Processing folder - 2040111
+Partner = INGRAM MICRO INTERNATIONAL [2040111]
+No OBIEE Data available for partner - 'INGRAM MICRO INTERNATIONAL [2040111]'
+
+
+--------------------------------------------------
+Processing folder - 2046200
+Partner = SYNNEX CORPORATION [2046200]
+No OBIEE Data available for partner - 'SYNNEX CORPORATION [2046200]'
+
+
+--------------------------------------------------
+Processing folder - 2089377
+Partner = CDW CANADA [2089377]
+No OBIEE Data available for partner - 'CDW CANADA [2089377]'
+
+
+--------------------------------------------------
+No files available in folder - C:\Poly Audit\Phase 2\Partners\2103268
+
+
+--------------------------------------------------
+Processing folder - 21054
+Partner = ORIGO HF [21054]
+No OBIEE Data available for partner - 'ORIGO HF [21054]'
+
+
+--------------------------------------------------
+Processing folder - 2106769
+Partner = GOGOTECH II LLC [2106769]
+No OBIEE Data available for partner - 'GOGOTECH II LLC [2106769]'
+
+
+--------------------------------------------------
+Processing folder - 2139175
+Partner = IT1SOURCE [2139175]
+No OBIEE Data available for partner - 'IT1SOURCE [2139175]'
+
+
+--------------------------------------------------
+Processing folder - 2148681
+Partner = SOFTCHOICE CORPORATION [2148681]
+No OBIEE Data available for partner - 'SOFTCHOICE CORPORATION [2148681]'
+
+
+--------------------------------------------------
+Processing folder - 2168977
+Partner = INGRAM MICRO S.A.C. [2168977]
+No OBIEE Data available for partner - 'INGRAM MICRO S.A.C. [2168977]'
+
+
+--------------------------------------------------
+Processing folder - 2168978
+Partner = INGRAM MICRO S A S (INGRAM MICRO INFORMATICA LTDA) [2168978]
+No OBIEE Data available for partner - 'INGRAM MICRO S A S (INGRAM MICRO INFORMATICA LTDA) [2168978]'
+
+
+--------------------------------------------------
+No files available in folder - C:\Poly Audit\Phase 2\Partners\2169649
+
+
+--------------------------------------------------
+Processing folder - 2178160
+Partner = FIRST VIDEO COMMUNICATIONS FZ LLC [2178160]
+No OBIEE Data available for partner - 'FIRST VIDEO COMMUNICATIONS FZ LLC [2178160]'
+
+
+--------------------------------------------------
+Processing folder - 2184055
+Partner = ALSO A/S [2184055]
+No OBIEE Data available for partner - 'ALSO A/S [2184055]'
+
+
+--------------------------------------------------
+Processing folder - 2389161
+Partner = WESTCON GROUP EUROPEAN OPERATIONS LIMITED (UK) [2389161]
+No OBIEE Data available for partner - 'WESTCON GROUP EUROPEAN OPERATIONS LIMITED (UK) [2389161]'
+
+
+--------------------------------------------------
+Processing folder - 2409278
+Partner = NETXUSA INC (INGRAM MICRO US CONTRACT) [2409278]
+No OBIEE Data available for partner - 'NETXUSA INC (INGRAM MICRO US CONTRACT) [2409278]'
+
+
+--------------------------------------------------
+Processing folder - 2482
+Partner = GRAYBAR ELECTRIC COMPANY [2482]
+No OBIEE Data available for partner - 'GRAYBAR ELECTRIC COMPANY [2482]'
+
+
+--------------------------------------------------
+Processing folder - 2826
+Partner = JENNE DISTRIBUTING [2826]
+No OBIEE Data available for partner - 'JENNE DISTRIBUTING [2826]'
+
+
+--------------------------------------------------
+Processing folder - 29536
+Partner = EXERTIS UK [29536]
+No OBIEE Data available for partner - 'EXERTIS UK [29536]'
+
+
+--------------------------------------------------
+Processing folder - 3470
+Partner = OFFICE DEPOT INC [3470]
+No OBIEE Data available for partner - 'OFFICE DEPOT INC [3470]'
+
+
+--------------------------------------------------
+Processing folder - 385049
+Partner = ESPRINET SPA [385049]
+No OBIEE Data available for partner - 'ESPRINET SPA [385049]'
+
+
+--------------------------------------------------
+Processing folder - 3882
+Partner = SKC COMMUNICATIONS PRODUCTS LLC [3882]
+No OBIEE Data available for partner - 'SKC COMMUNICATIONS PRODUCTS LLC [3882]'
+
+
+--------------------------------------------------
+Processing folder - 431904
+Partner = SENSUS COMMUNICATION SOLUTIONS [431904]
+No OBIEE Data available for partner - 'SENSUS COMMUNICATION SOLUTIONS [431904]'
+
+
+--------------------------------------------------
+Processing folder - 46500
+Partner = BUREAUTIQUE ET COMMUNICATION [46500]
+No OBIEE Data available for partner - 'BUREAUTIQUE ET COMMUNICATION [46500]'
+
+
+--------------------------------------------------
+Processing folder - 46908
+Partner = SYNNEX CANADA [46908]
+No OBIEE Data available for partner - 'SYNNEX CANADA [46908]'
+
+
+--------------------------------------------------
+Processing folder - 469883
+Partner = ALLNET ITALIA S.P.A. [469883]
+No OBIEE Data available for partner - 'ALLNET ITALIA S.P.A. [469883]'
+
+
+--------------------------------------------------
+Processing folder - 48078
+Partner = PC CONNECTION [48078]
+No OBIEE Data available for partner - 'PC CONNECTION [48078]'
+
+
+--------------------------------------------------
+Processing folder - 4840
+Partner = SPACE HELLAS S.A. [4840]
+No OBIEE Data available for partner - 'SPACE HELLAS S.A. [4840]'
+
+
+--------------------------------------------------
+Processing folder - 4847
+Partner = EXERTIS GO CONNECT [4847]
+No OBIEE Data available for partner - 'EXERTIS GO CONNECT [4847]'
+
+
+--------------------------------------------------
+Processing folder - 4856
+Partner = BILTAM AS [4856]
+No OBIEE Data available for partner - 'BILTAM AS [4856]'
+
+
+--------------------------------------------------
+Processing folder - 4857
+Partner = QUANTUM-R TRADE LIMITED [4857]
+No OBIEE Data available for partner - 'QUANTUM-R TRADE LIMITED [4857]'
+
+
+--------------------------------------------------
+Processing folder - 502078
+Partner = ZONES INC [502078]
+No OBIEE Data available for partner - 'ZONES INC [502078]'
+
+
+--------------------------------------------------
+Processing folder - 5021
+Partner = S.C.T. TELECOM [5021]
+No OBIEE Data available for partner - 'S.C.T. TELECOM [5021]'
+
+
+--------------------------------------------------
+Processing folder - 50333
+Partner = EXERTIS FRANCE NANTERRE [50333]
+No OBIEE Data available for partner - 'EXERTIS FRANCE NANTERRE [50333]'
+
+
+--------------------------------------------------
+Processing folder - 505592
+Partner = GTI SOFTWARE Y NETWORKING S.A [505592]
+No OBIEE Data available for partner - 'GTI SOFTWARE Y NETWORKING S.A [505592]'
+
+
+--------------------------------------------------
+Processing folder - 5100
+Partner = CELTE SRL [5100]
+No OBIEE Data available for partner - 'CELTE SRL [5100]'
+
+
+--------------------------------------------------
+Processing folder - 555603
+Partner = ABRIS DISTRIBUTION INC [555603]
+No OBIEE Data available for partner - 'ABRIS DISTRIBUTION INC [555603]'
+
+
+--------------------------------------------------
+Processing folder - 560501
+Partner = SHI INTERNATIONAL CORP [560501]
+No OBIEE Data available for partner - 'SHI INTERNATIONAL CORP [560501]'
+
+
+--------------------------------------------------
+Processing folder - 56711
+Partner = TELESWITCH INTERNATIONAL DBA SOTEL SYSTEMS LLC [56711]
+No OBIEE Data available for partner - 'TELESWITCH INTERNATIONAL DBA SOTEL SYSTEMS LLC [56711]'
+
+
+--------------------------------------------------
+Processing folder - 571065
+Partner = GST GOLDEN STAR TECHNOLOGIES [571065]
+No OBIEE Data available for partner - 'GST GOLDEN STAR TECHNOLOGIES [571065]'
+
+
+--------------------------------------------------
+Processing folder - 587953
+Partner = AL ZUBAIR GROUP FZE [587953]
+No OBIEE Data available for partner - 'AL ZUBAIR GROUP FZE [587953]'
+
+
+--------------------------------------------------
+Processing folder - 5887
+Partner = SERVICIOS TELEMATICOS DIGITALES S.L. [5887]
+No OBIEE Data available for partner - 'SERVICIOS TELEMATICOS DIGITALES S.L. [5887]'
+
+
+--------------------------------------------------
+No files available in folder - C:\Poly Audit\Phase 2\Partners\64963
+
+
+--------------------------------------------------
+Processing folder - 72825
+Partner = SC ABN SYSTEMS INT. SRL [72825]
+No OBIEE Data available for partner - 'SC ABN SYSTEMS INT. SRL [72825]'
+
+
+--------------------------------------------------
+Processing folder - 8230
+Partner = COMPUTER AIDED TELEPHONY SYSTEMS LTD. (CATS) [8230]
+No OBIEE Data available for partner - 'COMPUTER AIDED TELEPHONY SYSTEMS LTD. (CATS) [8230]'
+
+
+--------------------------------------------------
+Processing folder - 87375
+Partner = COMPUTER GROSS SPA [87375]
+No OBIEE Data available for partner - 'COMPUTER GROSS SPA [87375]'
+
+
+--------------------------------------------------
+Processing folder - ARM-TUR-001
+Partner = ARMADA BILGISAYAR SISTEMLERI SAN. VE TIC. A.S. [ARM-TUR-001]
